@@ -1,0 +1,65 @@
+nav {
+  display: flex;
+  
+  flex-direction: row;
+  border: 2px solid green;
+  justify-content: space-evenly;
+  padding-top: 1.25%;
+  align-items: flex-start;
+
+
+
+ 
+
+
+}
+
+
+
+
+li,
+ul {
+  list-style-type: none;
+  text-decoration: none;
+ 
+  
+
+ 
+  
+}
+ul {
+ 
+}
+
+li {
+
+ display: inline-block;
+ 
+  
+    border: 2px solid black;
+
+
+margin-left: 1%;
+   
+
+
+  
+}
+
+.link-section {
+  
+
+
+
+  border: 2px solid blue;
+  
+ flex: .40;
+  
+  
+
+}
+
+ul > li {
+
+
+}
